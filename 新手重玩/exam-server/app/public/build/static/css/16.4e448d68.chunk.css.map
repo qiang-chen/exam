@@ -1,0 +1,1 @@
+{"version":3,"sources":["class.css"],"names":[],"mappings":"AAAA,KACI,UAAW,CACX,WAAY,CACZ,eACJ,CAEA,UACI,YACJ,CAEA,WACI,WACJ","file":"16.4e448d68.chunk.css","sourcesContent":[".cls {\r\n    width: 100%;\r\n    height: 100%;\r\n    background: white;\r\n}\r\n\r\n.cls .btn {\r\n    padding: 30px;\r\n}\r\n\r\n.ant-input {\r\n    width: 313px;\r\n}"]}
