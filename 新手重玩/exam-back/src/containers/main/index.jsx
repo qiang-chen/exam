@@ -71,7 +71,7 @@ export default class Main extends Component {
                         <div className='logoLeft'>
                             <img
                                 src='https://www.tsinghua.edu.cn/publish/thu2018/images/logo_1.svg'
-                                alt='八维网'
+                                alt='清华网'
                             />
                         </div>
                         <div className='logoRight'>
